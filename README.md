@@ -4,7 +4,7 @@
 **`Desenvolvedora FullStack`**
 
 Me chamo Eduardo Butzen, tenho 18 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciência da Computação na Universidade Franciscana (UFN), em Santa Maria - RS. Sou apaixonado por tecnologia e estou sempre buscando aprender mais e evoluir na área de desenvolvimento. Também compartilho um pouco da minha jornada e aprendizado através do meu Instagram: 
-"[butzeneduardo](https://www.instagram.com/butzeneduardo/))"
+"[butzeneduardo](https://www.instagram.com/butzeneduardo/)"
 
 <p align="left">
     <a href="https://github.com/eduardobutzen?tab=repositories&sort=stargazers">
