@@ -80,10 +80,10 @@ Me chamo Eduardo Butzen, tenho 18 anos e sou natural do Rio Grande do Sul. Atual
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
 />
 
----
+<br/>
+<br/>
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
