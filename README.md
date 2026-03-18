@@ -87,6 +87,10 @@ Me chamo Eduardo Butzen, tenho 18 anos e sou natural do Rio Grande do Sul. Atual
 
 ### 📊 Estatísticas
 
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardobutzen&theme=tokyonight" height="180" />
+</p>
+
 <img 
       align="left" 
       alt="GitHub Stats" 
