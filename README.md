@@ -88,7 +88,6 @@ Me chamo Eduardo Butzen, tenho 18 anos e sou natural do Rio Grande do Sul. Atual
 ## 🌐 Contato
 
 <p align="left">
-  
   <a href="mailto:eduardo.butzen@ufn.edu.br">
     <img src="https://img.shields.io/badge/Email-eduardo.butzen@ufn.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
