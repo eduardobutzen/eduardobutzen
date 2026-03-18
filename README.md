@@ -1,5 +1,5 @@
 
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Eduardo Butzen
 
 **`Desenvolvedora FullStack`**
 
